@@ -1,6 +1,6 @@
 name="kumu"
 age=26
-gender="mal"
+gender="male"
 print(name)
 print(age)
 print(name, age,gender)
