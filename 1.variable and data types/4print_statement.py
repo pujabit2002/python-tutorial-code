@@ -23,6 +23,8 @@ print(age, end=" ")
 print(gender)
 
 
+
+
 # F-Strings , format
 print(f"your name is {name}, age is {age} , gender is {gender}")
 """output:-  your name iskumu, age is 26 , gender is male"""
