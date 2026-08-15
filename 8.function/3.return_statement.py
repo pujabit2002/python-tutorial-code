@@ -1,0 +1,23 @@
+"""
+def addition (n1,n2,n3):
+    return (n1+n2+n3)
+ans=addition(20,30,40)
+print(ans)
+"""
+
+#2nd method
+def addition (n1,n2,n3):
+    print(n1+n2+n3)
+ans=addition(10,20,30)
+print(ans)
+
+
+
+#True or False return, if user can vote or not
+"""def can_vote(age):
+    if age>=18:
+        return True
+    else:
+        return False
+ans =can_vote(80)
+print(ans) """    
