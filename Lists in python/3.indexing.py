@@ -1,0 +1,16 @@
+lst=["Anirudh", "sanjay", 56, 91.8120, 100, "surat"]
+#print(lst[0])
+#print(lst[1])
+#print(lst[2])
+#print(lst[3])
+#print(lst[4])
+#print(lst[5])
+#print(lst[-1])
+#print(lst[-2])
+#print(lst[-3])
+#print(lst[-4])
+#print(lst[-5])
+#print(lst[-6])
+
+n=len(lst)
+print(f"last element = {lst[n-1]}")
