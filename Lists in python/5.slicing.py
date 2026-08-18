@@ -1,0 +1,17 @@
+lst=[34,2,5,49,60,20,39,10,29,39,40,73,59]
+lst1=lst[1:14]
+print(lst1)
+lst1=lst[5:10]
+print(lst1)
+lst1=lst[3:11]
+print(lst1)
+lst1=lst[1:88]
+print(lst1)
+lst1=lst[5:6]
+print(lst1)
+lst1=lst[5:5]
+print(lst1)
+lst1=lst[4:]
+print(lst1)
+lst1=lst[:3]
+print(lst1)
