@@ -1,3 +1,6 @@
+#indexing
+
+
 lst=["Anirudh", "sanjay", 56, 91.8120, 100, "surat"]
 #print(lst[0])
 #print(lst[1])

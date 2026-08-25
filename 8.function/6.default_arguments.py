@@ -1,4 +1,5 @@
 def calculate_marks(maths, eng, hindi,comp=0,history=0 ):
+# optional argument is always right and required argument is always left.
     print(f"maths = {maths}")
     print(f"eng = {eng}")
     print(f"hindi = {hindi}")
