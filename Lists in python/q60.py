@@ -6,11 +6,14 @@ Hint: Use the + operator or a loop to
 combine. Example: list1 = [1, 2], list2 = [3,
 4] → merged = [1, 2, 3, 4]
 """
+#1st method
 list1=[1,2]
 list2=[3,4]
 new_list=list1+list2
 print(new_list)
 
+
+#2nd method
 def merge_two_lists(lst1,lst2):
     return lst1+lst2
 num1=[1,2,3]
@@ -18,6 +21,8 @@ num2=[4,5,6]
 print(merge_two_lists(num1,num2))
 
 
+
+#3rd method
 def merge_two_lists(lst1,lst2):
     new_list=[]
     for num in lst1:

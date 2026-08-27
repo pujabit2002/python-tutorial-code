@@ -1,9 +1,9 @@
-"""
+
 nums=[2, 4, 23, 26, 49, 59, 20, 46, 59, 89]
 n=len(nums)
 for i in range(0,n):
     print(nums[i], end=" ")
-"""
+
 
 
 

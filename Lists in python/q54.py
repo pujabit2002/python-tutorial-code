@@ -6,7 +6,7 @@ def nums_target(lst,target):
     for item in lst:
         if target == item:
             return True
-        return False
+    return False
 status=nums_target([11,20,30,40], 9)
 print(status)
 

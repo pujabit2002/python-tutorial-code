@@ -2,7 +2,7 @@
 nums=[2, 4, 23, 26, 49, 59, 20, 46, 59, 89]
 n=len(nums)
 i=0
-while i<n-1:
+while i<=n-1:
     print(nums[i], end= " ")
     i=i+1
 print("")

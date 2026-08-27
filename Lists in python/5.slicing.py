@@ -11,8 +11,8 @@
 #print(lst1)
 #lst1=lst[5:6]
 #print(lst1)
-lst1=lst[5:5]
-print(lst1)
+#lst1=lst[5:5]
+#print(lst1)
 #lst1=lst[4:]
 #print(lst1)
 #lst1=lst[:3]

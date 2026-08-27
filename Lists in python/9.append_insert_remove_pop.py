@@ -6,6 +6,7 @@ lst.append("Delhi")
 print(lst)
 
 
+
 lst.insert(2,"Delhi")
 print(lst)
 lst.insert(0,"Muskan")
