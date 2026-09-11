@@ -13,7 +13,7 @@ print("k\\umu")
 print("k\\\\\\umu")
 
 # my name is 'kupu yadav'
-print("my name is 'kupu yadav'")
+print("my name is \'kupu yadav\'")
 
 # my name is "kupu yadav"
 print('my name is \"kupu yadav\"')
