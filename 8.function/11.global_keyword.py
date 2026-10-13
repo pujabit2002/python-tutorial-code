@@ -8,6 +8,7 @@ print(f"Outside function count={count}")
 
 
 #2
+count=0
 def increase():
     global count
     count = 1
