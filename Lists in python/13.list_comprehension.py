@@ -16,5 +16,5 @@ print(new_list)
 new_list=[i*7 for i in range(1,8)]
 print(new_list)
 
-new_list=[i for i in range(10,0,-1)]
+new_list=[i*i for i in range(10,0,-1)]
 print(new_list)
