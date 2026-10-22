@@ -6,3 +6,7 @@ print()
 
 for ele in my_tuple:
     print(ele, end=" ")
+print()
+
+for index, value in enumerate(my_tuple):
+    print(f"Index = {index} and value = {value}")
