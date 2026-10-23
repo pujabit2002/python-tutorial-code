@@ -9,7 +9,7 @@ print(my_tuple)
 my_tuple=(1,)
 print(my_tuple)
 #hmm na without bracket bhi tuple bana sakte hai
-# agar one sinhle element hai tho usko without bracket nhi likhnsakte hai kyuki wo intger ho jayega
+# agar one single element hai tho usko without bracket nhi likh sakte hai kyuki wo intger ho jayega
 #  single element ke liye asie likh skate hai 1, and (1,)
 
 
@@ -20,3 +20,5 @@ print(b,type(b))
 print(c, type(c))
 print(d, type(d))
 #agar value 4 de rahe hai tho varaible bhi 4 asssign karna hoga 
+
+
