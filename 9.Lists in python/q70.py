@@ -56,7 +56,6 @@ print(total)
 
 
 temperatures=[32,35,31,39,36,41,34]
-
 max1=temperatures[0]
 count_days=0
 for f in range(1,len(temperatures)):
@@ -69,9 +68,6 @@ print(count_days)
 
 mixi=max(temperatures)
 print(mixi)
-sumo=sum(temperatures)
-print(sumo)
-
 
 
 
