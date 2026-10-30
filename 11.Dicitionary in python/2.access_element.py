@@ -1,5 +1,5 @@
 #note:- hmm isko index se value ko access nhi kr sakte hai 
-#note:- hmm isko key se value ko index karte hai.
+#note:- hmm isko key se value ko access karte hai.
 
 marks={
     "science":99,
